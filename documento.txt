@@ -3,4 +3,10 @@ capítulo três
 teste de guit
 tentando aprender esse tal GIT
 
-Clara
+Clara 
+
+Acrescentei mais uma linha para trabalhar no capítulo 4...
+
+Clara de novo...
+
+
